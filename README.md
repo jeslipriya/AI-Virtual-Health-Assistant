@@ -22,22 +22,23 @@ The **AI_Virtual_Health_Assistant** is a web-based platform designed to provide 
 ## Project Structure
 ```
 AI_Virtual_Health_Assistant/
-│── index.html               # Homepage (if needed)
-│── dashboard.html           # Main Dashboard
-│── chatbot.html             # AI Chatbot Page
-│── moodtracker.html         # Mood Tracker Page
-│── healthtips.html          # AI-Generated Health Tips
-│── location.html            # Find Nearby Hospitals
-│── dietandexercise.html     # Diet & Exercise Suggestions
-│── firstaid.html            # First Aid Guide
-│── profile.html             # User Profile Page
-│── about.html               # About Page
-│── feedback.html            # Feedback Form
-│── logout.html              # Logout Page
-│── signout.html             # Signout Page
-├── static/                  # Static files (CSS, JS, Images)
 ├── templates/               # HTML Templates
-└── app.py                   # Flask Backend
+    │── index.html               # Homepage (if needed)
+    │── dashboard.html           # Main Dashboard
+    │── chatbot.html             # AI Chatbot Page
+    │── moodtracker.html         # Mood Tracker Page
+    │── healthtips.html          # AI-Generated Health Tips
+    │── location.html            # Find Nearby Hospitals
+    │── dietandexercise.html     # Diet & Exercise Suggestions
+    │── firstaid.html            # First Aid Guide
+    │── profile.html             # User Profile Page
+    │── about.html               # About Page
+    │── feedback.html            # Feedback Form
+    │── logout.html              # Logout Page
+    │── signout.html             # Signout Page
+├── static/                  # Static files (CSS, JS, Images)
+
+
 ```
 
 ## Setup Instructions
