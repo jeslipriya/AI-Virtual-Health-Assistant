@@ -36,7 +36,12 @@ AI_Virtual_Health_Assistant/
     │── feedback.html            # Feedback Form
     │── logout.html              # Logout Page
     │── signout.html             # Signout Page
-├── static/                  # Static files (CSS, JS, Images)
+├── css/             
+    │── all css files
+│── images/
+    │── logo image
+│── js
+    │── all js files
 
 
 ```
