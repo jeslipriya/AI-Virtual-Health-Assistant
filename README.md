@@ -49,7 +49,7 @@ AI_Virtual_Health_Assistant/
 ## Setup Instructions
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/AI_Virtual_Health_Assistant.git
+git clone https://github.com/jeslipriya/AI_Virtual_Health_Assistant.git
 ```
 
 2. **Navigate to the project directory:**
@@ -69,7 +69,3 @@ http://localhost:5000
 
 ## Contributing
 Feel free to contribute by creating pull requests. For major changes, please open an issue first.
-
-## License
-This project is licensed under the MIT License.
-
